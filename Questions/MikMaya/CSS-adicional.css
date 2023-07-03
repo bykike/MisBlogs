@@ -1,0 +1,6 @@
+menu-item > a {
+    color: #4167a4;
+  }
+  
+  
+  .main-navigation a:hover, .main-navigation a:focus, span.posted-on a:hover, span.posted-on a:focus, span.byline .author a:hover, span.byline .author a:focus, .cat-links a:hover, .cat-links a:focus, #reply-title, .comments-title, .single-post .cat-links a:hover, .single-post .cat-links a:focus, .single-post .entry-meta span a:hover, .single-post .entry-meta span a:focus, .single-post span.byline .author a:hover, .single-post span.byline .author a:focus, a:hover, a:focus, a:active, .main-navigation a:hover, .main-navigation a:focus, .custom-header-content .cat-links a:hover, .custom-header-content .cat-links a:focus, .pagination a.page-numbers:hover, .pagination a.page-numbers:focus, .site-title a:hover, .single-post .entry-meta span a:hover, article .entry-title a:hover, article .entry-title a:focus, .entry-meta > span a:hover, .entry-meta > span a:focus, #secondary .widget ul li a:hover, .main-navigation ul.menu li.current-menu-item > a
