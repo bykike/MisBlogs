@@ -6,3 +6,7 @@
 }
 
 .site-info { /* display: none;*/ }  
+
+#page {
+  box-shadow: 0 0 0px #555;
+}
